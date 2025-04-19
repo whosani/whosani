@@ -32,13 +32,6 @@ Sou uma pessoa reservada, mas profundamente fascinada pela maneira como os dados
 
 ---
 
-### 🎯 Objetivos  
-- Desenvolver modelos de dados intuitivos e bem documentados  
-- Criar visualizações que transmitam insights sem ruído visual  
-- Aprender a escalar análises de forma elegante e eficiente  
-
----
-
 ### 💌 Convite especial
 
 Se você também:
