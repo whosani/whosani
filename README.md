@@ -1,34 +1,27 @@
 # 🌼 Olá, querido(a) visitante! Eu sou a Ana Gomes.
 
-💻 **Estudante de Análise e Desenvolvimento de Sistemas** | 📊 **Interessada em Análise de Dados**  
-🌱 **Explorando dados com método e atenção aos detalhes**   
+💻 Estudante de Análise e Desenvolvimento de Sistemas | 📊 Interessada em Análise de Dados  🌱 Explorando dados com método e atenção aos detalhes   
 
 ---
 
 ### 🦉 Sobre Mim  
-Sou uma pessoa reservada, mas profundamente fascinada pela maneira como os dados revelam padrões invisíveis. Prefiro ambientes calmos, onde posso me concentrar em análises detalhadas e modelagens precisas. Meu processo é lento, mas intencional – acredito que a profundidade está nos detalhes.  
+Sou uma pessoa reservada, mas profundamente fascinada pela maneira como os dados revelam padrões invisíveis. Prefiro ambientes calmos, onde posso me concentrar em análises detalhadas e interpretações cuidadosas. Meu processo é intencional e guiado pela curiosidade – acredito que profundidade mora nos detalhes.  
 
 ---
 
 ### 🛠 Habilidades Técnicas  
-- **Linguagens:** Python (Pandas, NumPy), SQL  
-- **Visualização:** Matplotlib, Power BI (prefiro paletas suaves e layouts limpos)  
-- **Bancos de Dados:** MongoDB, SQLite  
-- **Ferramentas:** Jupyter Notebook, VS Code  
-- **Controle de Versão:** Git, GitHub
+- Python – para análises simples e manipulação de dados  
+- SQL – extração e consultas em bases de dados relacionais  
+- Excel – organização, análise e visualizações rápidas  
 
-  ![Python](https://img.shields.io/badge/Python-2e8b57?style=flat&logo=python&logoColor=white)
-    ![SQL](https://img.shields.io/badge/SQL-3a5f0b?style=flat&logo=postgresql&logoColor=white)
-      ![PowerBI](https://img.shields.io/badge/Power_BI-4caf50?style=flat&logo=powerbi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-228b22?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-2e8b57?style=flat&logo=git&logoColor=white)
+> *No momento, sigo me aprofundando nessas ferramentas e explorando seu uso na prática de análise de dados.*
 
 ---
 
 ### 📖 Estudando no Momento  
-- **Modelagem de Dados** para estruturar informações com eficiência  
-- **Análise Exploratória (EDA)** com foco em descobertas sutis  
-- **Estatística Aplicada** para fundamentar melhor minhas conclusões  
+- Fundamentos de Ciência de Dados e IA (Programa Desenvolve – Grupo Boticário)  
+- Análise de Dados com foco em estatística e EDA (CIEE + Google | Coursera)  
+- Conceitos fundamentais de bancos de dados e visualização de informações
 
 ---
 
@@ -41,7 +34,7 @@ Se você também:
 
 Vamos conversar? Será um prazer conhecer você!
 
-- **📩 Meu e-mail:**  anacibele.evgomes@gmail.com (prometo responder com atenção)
-- 🌱 LinkedIn: [Meu cantinho profissional](https://www.linkedin.com/in/anaevgomes/)
+- 📩 Meu e-mail:  anacibele.evgomes@gmail.com (prometo responder com atenção)
+- 🌱 LinkedIn: [Meu cantinho profissional](http://linkedin.com/in/anaevgomes)
 
-✒️ *"Como dizia Carlos Drummond de Andrade sobre poesia, eu acredito que dados também são melhor apreciados em silêncio."*  
+✒️ *"Como dizia Carlos Drummond de Andrade sobre poesia, eu acredito que dados também são melhor apreciados em silêncio."*
